@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 [![MasterHead](https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/header.png)](https://github.com/Zakkoree)
 
 <!-- 个人资料徽标 -->
@@ -60,7 +66,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/github-contribution-grid-snake.svg"/></div>
-
 
 <table>
   <tr>
