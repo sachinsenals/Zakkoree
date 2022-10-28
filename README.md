@@ -61,11 +61,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/github-contribution-grid-snake.svg"/></div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zakkoree&show_icons=true&count_private=true" />  |  <img src="https://streak-stats.demolab.com/?user=Zakkoree" />
-:-------------------------:|:-------------------------:
-aaa  |  aaa
-
-<!-- <table>
+<table>
   <tr>
     <td>
         <!-- GitHub 统计卡片 -->
@@ -76,7 +72,17 @@ aaa  |  aaa
         <img src="https://streak-stats.demolab.com/?user=Zakkoree" />
     </td>
   </tr>
-</table> -->
+</table>
+
+<table>
+    <tbody>
+      <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=Zakkoree&show_icons=true&count_private=true" /></td>
+        <td><img src="https://streak-stats.demolab.com/?user=Zakkoree" /></td>
+      </tr>
+    </tbody>
+</table>
+
 
 <!-- 统计 -->
 <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Zakkoree&theme=github" /></div>
