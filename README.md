@@ -55,13 +55,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 # 🚀 Actions
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/github-contribution-grid-snake.svg"/></div>
-
-<div align="center"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/code1.gif"/></div>
-
-
-
 <table>
   <tr>
     <!-- GitHub 统计卡片 -->
@@ -73,6 +66,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   </tr>
 </table>
 
+<div align="center"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/code1.gif"/></div>
+
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/github-contribution-grid-snake.svg"/></div>
+
 <!-- 统计 -->
 <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Zakkoree&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/></div>
 
@@ -81,5 +79,4 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <br>
 
 [![skyline](https://skyline.github.com/zakkoree/2021)](https://github.com/Zakkoree)
-
 
