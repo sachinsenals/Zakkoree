@@ -63,14 +63,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <table>
   <tr>
-    <td>
-        <!-- GitHub 统计卡片 -->
-        <img src="https://github-readme-stats.vercel.app/api?username=Zakkoree&show_icons=true&count_private=true&hide_border=true" />
-    </td>
-    <td>
-        <!-- GitHub 连续提交代码天数记录 -->
-        <img src="https://streak-stats.demolab.com/?user=Zakkoree&hide_border=true&theme=tokyonight_duo" />
-    </td>
+    <!-- GitHub 统计卡片 -->
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Zakkoree&show_icons=true&count_private=true&hide_border=true" /></td>
+    <!-- GitHub 连续提交代码天数记录 -->
+    <td><img src="https://streak-stats.demolab.com/?user=Zakkoree&hide_border=true&theme=tokyonight_duo" /></td>
+    <!-- GitHub 连续提交代码天数记录 -->
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakkoree&layout=compact&hide_border=true" /></td>
   </tr>
 </table>
 
@@ -83,11 +81,4 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 [![skyline](https://skyline.github.com/zakkoree/2021)](https://github.com/Zakkoree)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zakkoree&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zakkoree&repo=convoychat" />
-</a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zakkoree)](https://github.com/anuraghazra/github-readme-stats)
