@@ -1,9 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 [![MasterHead](https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/header.png)](https://github.com/Zakkoree)
 
 <!-- 个人资料徽标 -->
@@ -67,7 +61,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/github-contribution-grid-snake.svg"/></div>
 
-<table>
+<img src="https://github-readme-stats.vercel.app/api?username=Zakkoree&show_icons=true&count_private=true" />  |  <img src="https://streak-stats.demolab.com/?user=Zakkoree" />
+:-------------------------:|:-------------------------:
+aaa  |  aaa
+
+<!-- <table>
   <tr>
     <td>
         <!-- GitHub 统计卡片 -->
@@ -78,7 +76,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
         <img src="https://streak-stats.demolab.com/?user=Zakkoree" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- 统计 -->
 <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Zakkoree&theme=github" /></div>
@@ -88,6 +86,5 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <br>
 
 [![skyline](https://skyline.github.com/zakkoree/2021)](https://github.com/Zakkoree)
-
 
 
