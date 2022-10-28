@@ -10,8 +10,19 @@
   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00B4F7&center=true&vCenter=true&width=441&lines=👋+Hello+there;🙋+I'm+Zakkoree" alt="Typing SVG"/></a>
 </div>
 
-#  🙋 Hello <a href="#"><img align="right" src="https://komarev.com/ghpvc/?username=Zakkoree&style=flat&color=brightgreen&label=profile+views"/></a>
+<!-- 个人资料徽标 -->
+<div align="center">
+    <a href="mailto:1223105850@qq.com"><img src="https://img.shields.io/badge/email--blue?style=social&logo=mail.ru" alt="e-mail"></a>&emsp;
+    <a href="https://gitee.com/Zakkoree"><img src="https://img.shields.io/badge/gitee--blue?style=social&logo=gitee"></a>&emsp;
+    <a href="https://twitter.com/MZakkoree"><img src="https://img.shields.io/badge/twitter--blue?style=social&logo=twitter"></a>&emsp;
+    <a href="https://www.facebook.com/profile.php?id=100086466722875/"><img src="https://img.shields.io/badge/facebook--003472?style=social&logo=facebook"></a>&emsp;
+    <a href="https://www.youtube.com/channel/UCalx4r-nFgzYoeIVXi8b0Og"><img src="https://img.shields.io/badge/youtube--c32136?style=social&logo=youtube"></a>&emsp;
+    <a href="https://blog.csdn.net/Zakkoree/"><img src="https://img.shields.io/badge/CSDN--c32136?style=social&logo=c"></a>&emsp;
+    <a href="https://space.bilibili.com/88005327/"><img src="https://img.shields.io/badge/bilibili--ff69b4?style=social&logo=bilibili"></a>&emsp;
+    <a href="https://www.zhihu.com/people/zakkoree-35/"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E--blue?style=social&logo=zhihu"></a>&emsp;
+</div>
 
+#  🙋 Hello <a href="#"><img align="right" src="https://komarev.com/ghpvc/?username=Zakkoree&style=flat&color=brightgreen&label=profile+views"/></a>
 
 
 ✍️hi, i'm [Zakkoree](https://github.com/Zakkoree), a passionate full java developer software engineer from china. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
@@ -46,10 +57,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
     ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
-#  🤝 Connect Me !! 
-
-
-
 <!-- Dynamic Quotes -->
 <div align="center"><a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></a></div>
 
@@ -76,8 +83,5 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <!-- GitHub奖杯🏆 -->
 <div align="center"><a href="#"><img src="https://github-profile-trophy.vercel.app/?username=Zakkoree&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true"/></a></div>
-<br>
-
-[![skyline](https://skyline.github.com/zakkoree/2021)](https://github.com/Zakkoree)
 
 <div align="center"><a href="#"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/rocket.png"/></a></div>
