@@ -74,7 +74,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 </table>
 
 <!-- 统计 -->
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Zakkoree&theme=github&bg_color=FFFFFF&hide_border=true"/></div>
+<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Zakkoree&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/></div>
 
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Zakkoree&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true"/></div>
