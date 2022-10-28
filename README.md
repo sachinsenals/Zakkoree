@@ -50,8 +50,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 
+<!-- Dynamic Quotes -->
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
-<br><br>
 # 🚀 Actions
 
 <!-- 贪吃蛇代码贡献图 -->
@@ -64,19 +65,19 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <table>
   <tr>
     <!-- GitHub 统计卡片 -->
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Zakkoree&show_icons=true&count_private=true&hide_border=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Zakkoree&show_icons=true&count_private=true&hide_border=true"/></td>
     <!-- GitHub 连续提交代码天数记录 -->
-    <td><img src="https://streak-stats.demolab.com/?user=Zakkoree&hide_border=true&theme=tokyonight_duo" /></td>
-    <!-- GitHub 连续提交代码天数记录 -->
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakkoree&layout=compact&hide_border=true" /></td>
+    <td><img src="https://streak-stats.demolab.com/?user=Zakkoree&hide_border=true&theme=tokyonight_duo"/></td>
+    <!-- GitHub 语言占比 -->
+    <!-- <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakkoree&layout=compact&hide_border=true" /></td> -->
   </tr>
 </table>
 
 <!-- 统计 -->
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Zakkoree&theme=github" /></div>
+<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Zakkoree&theme=github&bg_color=000000&hide_border=true"/></div>
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Zakkoree&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Zakkoree&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true"/></div>
 <br>
 
 [![skyline](https://skyline.github.com/zakkoree/2021)](https://github.com/Zakkoree)
