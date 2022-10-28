@@ -1,16 +1,16 @@
-[![MasterHead](https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/header.png)](https://github.com/Zakkoree)
+[![MasterHead](https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/header.png)](#)
 
 <!-- 个人资料徽标 -->
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,idea,java,kubernetes,docker,hibernate,gradle,html,css,js,cloudflare,git,github,discord,nginx,redis,gitlab,py,md,mysql,postgres,stackoverflow,jenkins,vscode&perline=50" />
+    <a href="#"><img src="https://skillicons.dev/icons?i=linux,idea,java,kubernetes,docker,hibernate,gradle,html,css,js,cloudflare,git,discord,nginx,redis,py,md,mysql,postgres,stackoverflow,jenkins,vscode&perline=50"/></a>
 </p>
 
 <!-- 动态打字效果 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00B4F7&center=true&vCenter=true&width=441&lines=👋+Hello+there;🙋+I'm+Zakkoree" alt="Typing SVG" />
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00B4F7&center=true&vCenter=true&width=441&lines=👋+Hello+there;🙋+I'm+Zakkoree" alt="Typing SVG"/></a>
 </div>
 
-#  🙋 Hello <img align="right" src="https://komarev.com/ghpvc/?username=Zakkoree&style=flat&color=brightgreen&label=profile+views" />
+#  🙋 Hello <a href="#"><img align="right" src="https://komarev.com/ghpvc/?username=Zakkoree&style=flat&color=brightgreen&label=profile+views"/></a>
 
 
 
@@ -51,32 +51,33 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 <!-- Dynamic Quotes -->
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
+<div align="center"><a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></a></div>
 
 # 🚀 Actions
 
 <table>
   <tr>
     <!-- GitHub 统计卡片 -->
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Zakkoree&show_icons=true&count_private=true&hide_border=true"/></td>
+    <td><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Zakkoree&show_icons=true&count_private=true&hide_border=true"/></a></td>
     <!-- GitHub 连续提交代码天数记录 -->
-    <td><img src="https://streak-stats.demolab.com/?user=Zakkoree&hide_border=true&theme=tokyonight_duo"/></td>
+    <td><a href="#"><img src="https://streak-stats.demolab.com/?user=Zakkoree&hide_border=true&theme=tokyonight_duo"/></a></td>
     <!-- GitHub 语言占比 -->
     <!-- <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakkoree&layout=compact&hide_border=true" /></td> -->
   </tr>
 </table>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/code1.gif"/></div>
+<div align="center"><a href="#"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/code1.gif"/></a></div>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/github-contribution-grid-snake.svg"/></div>
+<div align="center"><a href="#"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/github-contribution-grid-snake.svg"/></a></div>
 
 <!-- 统计 -->
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Zakkoree&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/></div>
+<div align="center"><a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=Zakkoree&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/></a></div>
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Zakkoree&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true"/></div>
+<div align="center"><a href="#"><img src="https://github-profile-trophy.vercel.app/?username=Zakkoree&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true"/></a></div>
 <br>
 
 [![skyline](https://skyline.github.com/zakkoree/2021)](https://github.com/Zakkoree)
 
+<div align="center"><a href="#"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/rocket.png"/></a></div>
