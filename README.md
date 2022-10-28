@@ -5,6 +5,9 @@
     <a href="#"><img src="https://skillicons.dev/icons?i=linux,idea,java,kubernetes,docker,hibernate,gradle,html,css,js,cloudflare,git,discord,nginx,redis,py,md,mysql,postgres,stackoverflow,jenkins,vscode&perline=50"/></a>
 </p>
 
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><a href="#"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/github-contribution-grid-snake.svg"/></a></div>
+
 <!-- 动态打字效果 -->
 <div align="center">
   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00B4F7&center=true&vCenter=true&width=500&lines= +console.log(%22Hello%2C%20World!%22);👋Hi,I'm+Zakkoree" alt="Typing SVG"/></a>
