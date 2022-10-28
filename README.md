@@ -67,8 +67,8 @@
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zakkoree&show_icons=true&count_private=true" />
-  <img align="center" src="https://streak-stats.demolab.com/?user=Zakkoree" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Zakkoree&show_icons=true&count_private=true" />
+  <img align="right" align="center" src="https://streak-stats.demolab.com/?user=Zakkoree" />
 </div>
 <br>
 
