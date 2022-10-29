@@ -1,9 +1,16 @@
 [![MasterHead](https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/header.png)](#)
 
-<!-- 个人资料徽标 -->
+<!-- 徽标 -->
 <!-- <p align="center">
     <a href="#"><img src="https://skillicons.dev/icons?i=linux,idea,java,kubernetes,docker,hibernate,gradle,html,css,js,cloudflare,git,discord,nginx,redis,py,md,mysql,postgres,stackoverflow,jenkins,vscode&perline=50"/></a>
 </p> -->
+
+<!-- 动态打字效果 -->
+<div align="center">
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00B4F7&center=true&vCenter=true&width=600&lines=💻+console.log(%22Hello%2C%20World!%22);👋Hi+there,I'm+Zakkoree" alt="Typing SVG"/></a>
+</div>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=5F9A80&size=40&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Anik;A+passionate+competitive+programmer;Student%2C+Blogger%2C+Web+Developer;Android+Developer%2C+Machine+Learning+Engineer;Where+there+is+Code%2C+There+is+Life;I+believe%2C+It's+never+over+till+it's+over." />
 
 <!-- 个人资料徽标 -->
 <div align="center">
@@ -17,20 +24,12 @@
     <a href="https://space.bilibili.com/88005327/"><img src="https://img.shields.io/badge/bilibili--ff69b4?style=social&logo=bilibili"></a>&emsp;
 </div>
 
-<!-- 动态打字效果 -->
-<div align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00B4F7&center=true&vCenter=true&width=600&lines=💻+console.log(%22Hello%2C%20World!%22);👋Hi+there,I'm+Zakkoree" alt="Typing SVG"/></a>
-</div>
-
 #  🙋 Hello <a href="#"><img align="right" src="https://komarev.com/ghpvc/?username=Zakkoree&style=flat&color=brightgreen&label=profile+views"/></a>
-
 
 ✍️hi, i'm [Zakkoree](https://github.com/Zakkoree), a passionate full java developer software engineer from china. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.<a href="#"><img align="right" width="355" src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/code1.gif"/></a>
-
-
-
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+<img align="right" width="40%" src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/code1.gif"/>
 - 💼 any freelance work? do reach.
 - 💬 ask me about anything, i am happy to help.
 - 💻 Languages and Tools:
@@ -62,7 +61,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <br>
 
 <!-- Dynamic Quotes -->
-<div align="center"><a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></a></div>
+<!-- <div align="center"><a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></a></div> -->
 
 
 <!-- 贪吃蛇代码贡献图 -->
