@@ -1,9 +1,9 @@
 [![MasterHead](https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/header.png)](#)
 
 <!-- 个人资料徽标 -->
-<p align="center">
+<!-- <p align="center">
     <a href="#"><img src="https://skillicons.dev/icons?i=linux,idea,java,kubernetes,docker,hibernate,gradle,html,css,js,cloudflare,git,discord,nginx,redis,py,md,mysql,postgres,stackoverflow,jenkins,vscode&perline=50"/></a>
-</p>
+</p> -->
 
 <!-- 动态打字效果 -->
 <div align="center">
