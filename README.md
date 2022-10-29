@@ -68,9 +68,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 # 🚀 Actions
 
 <!-- GitHub 统计卡片 -->
-<img align="right" width="45%" src="https://streak-stats.demolab.com/?user=Zakkoree"/>
+<img align="right" width="49%" src="https://streak-stats.demolab.com/?user=Zakkoree"/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Zakkoree">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zakkoree">
 <!-- GitHub 语言占比 -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakkoree&layout=compact&hide_border=true" /> -->
 
