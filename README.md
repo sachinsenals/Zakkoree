@@ -6,11 +6,13 @@
 </p> -->
 
 <!-- 动态打字效果 -->
-<div align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00B4F7&center=true&vCenter=true&width=600&lines=💻+console.log(%22Hello%2C%20World!%22);👋Hi+there,I'm+Zakkoree" alt="Typing SVG"/></a>
-</div>
+<!-- <div align="center">
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00B4F7&center=true&vCenter=true&width=900&lines=💻+console.log(%22Hello%2C%20World!%22);👋Hi+there,I'm+Zakkoree" alt="Typing SVG"/></a>
+</div> -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=5F9A80&size=40&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Anik;A+passionate+competitive+programmer;Student%2C+Blogger%2C+Web+Developer;Android+Developer%2C+Machine+Learning+Engineer;Where+there+is+Code%2C+There+is+Life;I+believe%2C+It's+never+over+till+it's+over." />
+<div align="center">
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=30&pause=1000&color=5F9A80&center=true&vCenter=true&width=900&lines=💻+console.log(%22Hello%2C%20World!%22);👋Hi+there,I'm+Zakkoree" alt="Typing SVG"/></a>
+</div>
 
 <!-- 个人资料徽标 -->
 <div align="center">
