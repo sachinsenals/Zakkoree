@@ -26,7 +26,7 @@
     <a href="https://space.bilibili.com/88005327/"><img src="https://img.shields.io/badge/bilibili--ff69b4?style=social&logo=bilibili"></a>&emsp;
 </div>
 
-#  🙋 Hello <a href="#"><img align="right" src="https://komarev.com/ghpvc/?username=Zakkoree&style=flat&color=brightgreen&label=profile+views"/></a>
+#  🙋 Hello <img width="60px" src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/Handshake.gif"/> <img align="right" src="https://komarev.com/ghpvc/?username=Zakkoree&style=flat&color=brightgreen&label=profile+views"/>
 
 ✍️hi, i'm [Zakkoree](https://github.com/Zakkoree), a passionate full java developer software engineer from china. i take great care in the experience architecture and code quality of the things I build. i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 <img align="right" width="40%" src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/code1.gif"/>
@@ -65,11 +65,11 @@
 
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><a href="#"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/github-contribution-grid-snake.svg"/></a></div>
+<p align="center"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/github-contribution-grid-snake.svg"/></p>
 
 
 # 🚀 Actions
-
+7
 <!-- GitHub 统计卡片 -->
 <img align="right" width="48%" src="https://streak-stats.demolab.com/?user=Zakkoree"/>
 
@@ -80,10 +80,10 @@
 
 
 <!-- 统计 -->
-<div align="center"><a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=Zakkoree&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/></a></div>
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Zakkoree&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/></p>
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><a href="#"><img src="https://github-profile-trophy.vercel.app/?username=Zakkoree&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true"/></a></div>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Zakkoree&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true"/></p>
 <br>
 
 [![skyline](https://skyline.github.com/zakkoree/2021)](https://github.com/Zakkoree)
