@@ -11,7 +11,7 @@
 </div> -->
 
 <div align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=30&pause=1000&color=5F9A80&center=true&vCenter=true&width=900&lines=💻+console.log(%22Hello%2C%20World!%22);👋Hi+there,I'm+Zakkoree" alt="Typing SVG"/></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=30&pause=1000&color=00B4F7&center=true&vCenter=true&width=900&lines=console.log(%22Hello%2C%20World!%22);👋Hi+there,I'm+Zakkoree" alt="Typing SVG"/></a>
 </div>
 
 <!-- 个人资料徽标 -->
@@ -28,9 +28,7 @@
 
 #  🙋 Hello <a href="#"><img align="right" src="https://komarev.com/ghpvc/?username=Zakkoree&style=flat&color=brightgreen&label=profile+views"/></a>
 
-✍️hi, i'm [Zakkoree](https://github.com/Zakkoree), a passionate full java developer software engineer from china. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+✍️hi, i'm [Zakkoree](https://github.com/Zakkoree), a passionate full java developer software engineer from china. i take great care in the experience architecture and code quality of the things I build. i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 <img align="right" width="40%" src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/code1.gif"/>
 - 💼 any freelance work? do reach.
 - 💬 ask me about anything, i am happy to help.
