@@ -26,7 +26,7 @@
     <a href="https://space.bilibili.com/88005327/"><img src="https://img.shields.io/badge/bilibili--ff69b4?style=social&logo=bilibili"></a>&emsp;
 </div>
 
-#  🙋 Hello <img width="60px" src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/Handshake.gif"/> <img align="right" src="https://komarev.com/ghpvc/?username=Zakkoree&style=flat&color=brightgreen&label=profile+views"/>
+#  🙋 Hello <img width="80px" src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/Handshake.gif"/> <img align="right" src="https://komarev.com/ghpvc/?username=Zakkoree&style=flat&color=brightgreen&label=profile+views"/>
 
 ✍️hi, i'm [Zakkoree](https://github.com/Zakkoree), a passionate full java developer software engineer from china. i take great care in the experience architecture and code quality of the things I build. i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 <img align="right" width="40%" src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/code1.gif"/>
