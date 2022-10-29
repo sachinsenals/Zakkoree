@@ -22,9 +22,6 @@
     <a href="https://space.bilibili.com/88005327/"><img src="https://img.shields.io/badge/bilibili--ff69b4?style=social&logo=bilibili"></a>&emsp;
 </div>
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><a href="#"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/github-contribution-grid-snake.svg"/></a></div>
-
 #  🙋 Hello <a href="#"><img align="right" src="https://komarev.com/ghpvc/?username=Zakkoree&style=flat&color=brightgreen&label=profile+views"/></a>
 
 
@@ -62,8 +59,15 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
     ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
+<br>
+
 <!-- Dynamic Quotes -->
 <div align="center"><a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></a></div>
+
+
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><a href="#"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/github-contribution-grid-snake.svg"/></a></div>
+
 
 # 🚀 Actions
 
@@ -86,5 +90,4 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 [![skyline](https://skyline.github.com/zakkoree/2021)](https://github.com/Zakkoree)
 
 <div align="center"><a href="#"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/rocket.png"/></a></div>
-
 
