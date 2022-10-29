@@ -96,7 +96,7 @@
     
 
 <!-- Dynamic Quotes -->
-<div align="center"><a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></a></div> 
+<!-- <div align="center"><a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></a></div>  -->
 
 # 🚀 Actions
 
