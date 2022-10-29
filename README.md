@@ -1,16 +1,16 @@
 [![MasterHead](https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/header.png)](#)
 
 <!-- 个人资料徽标 -->
-<!-- <p align="center">
+<p align="center">
     <a href="#"><img src="https://skillicons.dev/icons?i=linux,idea,java,kubernetes,docker,hibernate,gradle,html,css,js,cloudflare,git,discord,nginx,redis,py,md,mysql,postgres,stackoverflow,jenkins,vscode&perline=50"/></a>
-</p> -->
+</p>
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><a href="#"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/github-contribution-grid-snake.svg"/></a></div>
 
 <!-- 动态打字效果 -->
 <div align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00B4F7&center=true&vCenter=true&width=500&lines= +console.log(%22Hello%2C%20World!%22);👋Hi,I'm+Zakkoree" alt="Typing SVG"/></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00B4F7&center=true&vCenter=true&width=600&lines=💻+console.log(%22Hello%2C%20World!%22);👋Hi+there,I'm+Zakkoree" alt="Typing SVG"/></a>
 </div>
 
 <!-- 个人资料徽标 -->
@@ -25,12 +25,15 @@
     <a href="https://space.bilibili.com/88005327/"><img src="https://img.shields.io/badge/bilibili--ff69b4?style=social&logo=bilibili"></a>&emsp;
 </div>
 
+
 #  🙋 Hello <a href="#"><img align="right" src="https://komarev.com/ghpvc/?username=Zakkoree&style=flat&color=brightgreen&label=profile+views"/></a>
 
 
 ✍️hi, i'm [Zakkoree](https://github.com/Zakkoree), a passionate full java developer software engineer from china. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.<a href="#"><img align="right" width="355" src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/code1.gif"/></a>
+
+
 
 - 💼 any freelance work? do reach.
 - 💬 ask me about anything, i am happy to help.
@@ -65,6 +68,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 # 🚀 Actions
 
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Zakkoree&show_icons=true&count_private=true&hide_border=true"/></a>
+<a href="#"><img src="https://streak-stats.demolab.com/?user=Zakkoree&hide_border=true&theme=tokyonight_duo"/></a>
+
 <table>
   <tr>
     <!-- GitHub 统计卡片 -->
@@ -75,11 +81,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     <!-- <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakkoree&layout=compact&hide_border=true" /></td> -->
   </tr>
 </table>
-
-<div align="center"><a href="#"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/code1.gif"/></a></div>
-
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><a href="#"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/github-contribution-grid-snake.svg"/></a></div>
 
 <!-- 统计 -->
 <div align="center"><a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=Zakkoree&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/></a></div>
