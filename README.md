@@ -89,8 +89,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ## 🔥 Github Stats
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Zakkoree&show_icons=true&count_private=true&hide_border=true"/>
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=Zakkoree&show_icons=true&count_private=true&hide_border=true"/>
 
-<a href="https://github.com/Giingu"><img width="50%" src="[https://github-readme-stats.vercel.app/api?username=Giingu&theme=radical&title_color=ff3068](https://streak-stats.demolab.com/?user=Zakkoree&hide_border=true&theme=tokyonight_duo)"></a>
-<a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Giingu&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+<a href="https://github.com/Giingu"><img width="40%" src="[https://github-readme-stats.vercel.app/api?username=Giingu&theme=radical&title_color=ff3068](https://streak-stats.demolab.com/?user=Zakkoree&hide_border=true&theme=tokyonight_duo)"></a>
+
 
