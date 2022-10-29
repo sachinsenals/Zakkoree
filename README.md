@@ -58,8 +58,6 @@
     ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
     ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
-<br>
-
 <!-- Dynamic Quotes -->
 <!-- <div align="center"><a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></a></div> -->
 
@@ -69,7 +67,7 @@
 
 
 # 🚀 Actions
-7
+
 <!-- GitHub 统计卡片 -->
 <img align="right" width="48%" src="https://streak-stats.demolab.com/?user=Zakkoree"/>
 
@@ -77,16 +75,12 @@
 <!-- GitHub 语言占比 -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakkoree&layout=compact&hide_border=true" /> -->
 
-
-
 <!-- 统计 -->
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Zakkoree&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/></p>
 
 <!-- GitHub奖杯🏆 -->
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Zakkoree&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true"/></p>
 <br>
-
-[![skyline](https://skyline.github.com/zakkoree/2021)](https://github.com/Zakkoree)
 
 <div align="center"><a href="#"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/rocket.png"/></a></div>
 
