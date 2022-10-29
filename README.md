@@ -9,10 +9,12 @@
 <!-- <div align="center">
   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00B4F7&center=true&vCenter=true&width=900&lines=💻+console.log(%22Hello%2C%20World!%22);👋Hi+there,I'm+Zakkoree" alt="Typing SVG"/></a>
 </div> -->
-
 <div align="center">
   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=30&pause=1000&color=00B4F7&center=true&vCenter=true&width=900&lines=console.log(%22Hello%2C%20World!%22);👋Hi+there,I'm+Zakkoree" alt="Typing SVG"/></a>
 </div>
+
+<!-- 大数字显示访客数量 -->
+<!-- ![Visitor Count](https://profile-counter.glitch.me/Zakkoree/count.svg) -->
 
 <!-- 个人资料徽标 -->
 <div align="center">
@@ -27,14 +29,14 @@
     <a href="https://space.bilibili.com/88005327/"><img src="https://img.shields.io/badge/bilibili--ff69b4?style=social&logo=bilibili"></a>&emsp;
     <a href="https://discord.gg/qEZtdG62ZW"><img src="https://img.shields.io/badge/discord--blue?style=social&logo=discord"></a>&emsp;
 </div>
-
+<!-- 🤦‍♂📖🛠🔍👉🏻🔔🐤🐱‍💻🔥🏆📦📜🔑💖❤️🍷😄 🎉😊⭐⚡☕️👨‍💻🏠🔭📺🔨🙇🎯😎🖋🎫🎭👻✨👾🎰🤗🗒😃💫🤖 -->
 #  🙋 Hello <img width="80px" src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/Handshake.gif"/> <img align="right" src="https://komarev.com/ghpvc/?username=Zakkoree&style=flat&color=brightgreen&label=profile+views"/>
 
 ✍️hi, i'm [Zakkoree](https://github.com/Zakkoree), a passionate full java developer software engineer from china. i take great care in the experience architecture and code quality of the things I build. i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 <img align="right" width="40%" src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/code1.gif"/>
 - 💼 any freelance work? do reach.
 - 💬 ask me about anything, i am happy to help.
-- 💻 Languages and Tools:
+- 💻 technologies and tools:
 
     [![Windows](https://img.shields.io/badge/Windows-0078D4?style=style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com)
     [![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)](https://www.linux.org)
@@ -117,4 +119,3 @@
 <br>
 
 <div align="center"><a href="#"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/rocket.png"/></a></div>
-
