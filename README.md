@@ -1,6 +1,5 @@
-[![MasterHead](https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/header.png)](#)
-
-<!-- https://cdn.jsdelivr.net/gh/ -->
+<!-- https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/header.png -->
+![MasterHead](https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/header.png)
 
 <!-- 徽标 -->
 <!-- <p align="center">
@@ -32,11 +31,10 @@
     <a href="https://discord.gg/qEZtdG62ZW"><img src="https://img.shields.io/badge/discord--blue?style=social&logo=discord"></a>&emsp;
 </div>
 
-<!-- 🤦‍♂📖🛠🔍👉🏻🔔🐤🐱‍💻🔥🏆📦📜🔑💖❤️🍷😄 🎉😊⭐⚡☕️👨‍💻🏠🔭📺🔨🙇🎯😎🖋🎫🎭👻✨👾🎰🤗🗒😃💫🤖 -->
-#  🙋 Hello <img width="80px" src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/Handshake.gif"/> <img align="right" src="https://komarev.com/ghpvc/?username=Zakkoree&style=flat&color=brightgreen&label=profile+views"/>
+#  🙋 Hello <img width="80px" src="https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/Handshake.gif"/> <img align="right" src="https://komarev.com/ghpvc/?username=Zakkoree&style=flat&color=brightgreen&label=profile+views"/>
 
 ✍️hi, i'm [Zakkoree](https://github.com/Zakkoree), a passionate full java developer software engineer from china. i take great care in the experience architecture and code quality of the things I build. i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-<img align="right" width="40%" src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/code1.gif"/>
+<img align="right" width="40%" src="https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/code1.gif"/>
 - 💼 any freelance work? do reach.
 - 💬 ask me about anything, i am happy to help.
 - 💻 technologies and tools:
@@ -116,7 +114,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakkoree&layout=compact&hide_border=true" /> -->
 
 <!-- 贪吃蛇代码贡献图 -->
-<p align="center"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/github-contribution-grid-snake.svg"/></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/github-contribution-grid-snake.svg"/></p>
 
 <!-- 统计 -->
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Zakkoree&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/></p>
@@ -125,7 +123,7 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Zakkoree&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true"/></p>
 <br>
 
-<div align="center"><a href="#"><img src="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/rocket.png"/></a></div>
+<div align="center"><a href="#"><img src="https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/rocket.png"/></a></div>
 
 <!-- bilibili数据 -->
 <!-- <div align="center"> <img src="https://stats.justsong.cn/api/bilibili/?id=88005327"> </div> -->
