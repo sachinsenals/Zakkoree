@@ -3,7 +3,7 @@
 
 <!-- 徽标 -->
 <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=linux,idea,java,kubernetes,docker,hibernate,gradle,html,css,js,cloudflare,git,discord,nginx,redis,py,md,mysql,postgres,stackoverflow,jenkins,vscode&perline=50"/></a>
+    <img src="https://skillicons.dev/icons?i=linux,idea,java,kubernetes,docker,hibernate,gradle,html,css,js,cloudflare,git,discord,nginx,redis,py,md,mysql,postgres,stackoverflow,jenkins,vscode&perline=50"/>
 </p>
 
 <!-- 动态打字效果 -->
@@ -30,6 +30,9 @@
     <a href="https://space.bilibili.com/88005327/"><img src="https://img.shields.io/badge/bilibili--ff69b4?style=social&logo=bilibili"></a>&emsp;
     <a href="https://discord.gg/qEZtdG62ZW"><img src="https://img.shields.io/badge/discord--blue?style=social&logo=discord"></a>&emsp;
 </div>
+
+<!-- 贪吃蛇代码贡献图 -->
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/github-contribution-grid-snake.svg"/></p>
 
 #  🙋 Hello <img width="80px" src="https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/Handshake.gif"/> <img align="right" src="https://komarev.com/ghpvc/?username=Zakkoree&style=flat&color=brightgreen&label=profile+views"/>
 
@@ -112,9 +115,6 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Zakkoree">
 <!-- GitHub 语言占比 -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakkoree&layout=compact&hide_border=true" /> -->
-
-<!-- 贪吃蛇代码贡献图 -->
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/github-contribution-grid-snake.svg"/></p>
 
 <!-- 统计 -->
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Zakkoree&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/></p>
