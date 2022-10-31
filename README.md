@@ -1,8 +1,3 @@
-
-
-<!-- 贪吃蛇代码贡献图 -->
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/github-contribution-grid-snake.svg"/></p>
-
 <!-- 徽标 -->
 <!-- <p align="center">
     <img src="https://skillicons.dev/icons?i=linux,idea,java,kubernetes,docker,hibernate,gradle,html,css,js,cloudflare,git,discord,nginx,redis,py,md,mysql,postgres,stackoverflow,jenkins,vscode&perline=50"/>
@@ -32,6 +27,9 @@
     <a href="https://space.bilibili.com/88005327/"><img src="https://img.shields.io/badge/bilibili--ff69b4?style=social&logo=bilibili"></a>&emsp;
     <a href="https://discord.gg/qEZtdG62ZW"><img src="https://img.shields.io/badge/discord--blue?style=social&logo=discord"></a>&emsp;
 </div>
+
+<!-- 贪吃蛇代码贡献图 -->
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/github-contribution-grid-snake.svg"/></p>
 
 #  🙋 Hello <img width="80px" src="https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/Handshake.gif"/> <img align="right" src="https://komarev.com/ghpvc/?username=Zakkoree&style=flat&color=brightgreen&label=profile+views"/>
 
@@ -109,9 +107,6 @@
 
 # 🚀 Actions
 
-<!-- https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/header.png -->
-![MasterHead](https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/header.png)
-
 <!-- GitHub 统计卡片 -->
 <img align="right" width="48%" src="https://streak-stats.demolab.com/?user=Zakkoree"/>
 
@@ -126,10 +121,13 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Zakkoree&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true"/></p>
 <br>
 
-<div align="center"><a href="#"><img src="https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/rocket.png"/></a></div>
+<!-- <div align="center"><a href="#"><img src="https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/rocket.png"/></a></div> -->
 
 <!-- bilibili数据 -->
 <!-- <div align="center"> <img src="https://stats.justsong.cn/api/bilibili/?id=88005327"> </div> -->
 <!-- CSDN数据 -->
 <!-- <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_38979330"> </div> -->
+
+<!-- https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/header.png -->
+![MasterHead](https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/header.png)
 
