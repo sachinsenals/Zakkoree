@@ -120,7 +120,7 @@
 
 <!-- GitHub奖杯🏆 -->
 <!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Zakkoree&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true"/> </div> -->
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Zakkoree"/> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Zakkoree&theme=gruvbox&no-frame=true&no-bg=true"/> </div>
 
 <br>
 
