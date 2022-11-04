@@ -119,7 +119,8 @@
 <center><img src="https://activity-graph.herokuapp.com/graph?username=Zakkoree&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/></center>
 
 <!-- GitHub奖杯🏆 -->
-<center><img src="https://github-profile-trophy.vercel.app/?username=Zakkoree&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true"/></center>
+<center> <img src="https://github-profile-trophy.vercel.app/?username=Zakkoree&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true"/> </center>
+
 <br>
 
 <!-- <div align="center"><a href="#"><img src="https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/rocket.png"/></a></div> -->
