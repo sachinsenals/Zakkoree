@@ -19,7 +19,7 @@ if __name__ == "__main__":
         print('Telegram推送已配置！')
         bot = telepot.Bot(teletoken)
         teleinfomsg = '''
-        成功执行Github签到脚本！
+        成功执行Github 贪吃蛇更新脚本！
         '''
         send(teleid, teleinfomsg)
         print(teleinfomsg)
