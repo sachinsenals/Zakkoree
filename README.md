@@ -51,7 +51,6 @@
     [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=style=flat-square&logo=github)](https://github.com)
     [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=style=flat-square&logo=GitHubActions&logoColor=white)](https://github.com)
     [![GitLab](https://img.shields.io/badge/-GitLab-181717?style=style=flat-square&logo=GitLab)](https://docs.gitlab.com)
-<!--     [![Gitee](https://img.shields.io/badge/-Gitee-c71d23?style=style=flat-square&logo=Gitee)](https://gitee.com) -->
     [![Kubernetes](https://img.shields.io/badge/Kubernetes-%2300599C?style=style=flat-square&logo=Kubernetes&logoColor=white)](https://kubernetes.io)
     [![K3s](https://img.shields.io/badge/K3s-ffc61c?style=style=flat-square&logo=K3s&logoColor=black)](https://k3s.io)
     [![Docker](https://img.shields.io/badge/Docker-2496ed?style=style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
