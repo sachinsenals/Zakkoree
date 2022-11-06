@@ -1,16 +1,9 @@
 import sys
-import requests as r
-import json
 import telepot
 
 
 teleid = sys.argv[1]
 teletoken = sys.argv[2]
-
-if cookies == "" or cookies == []:
-    print('[网易云游戏自动签到]未设置cookie，正在退出……')
-    sys.exit()
-
 
 
 def send(id, message):
