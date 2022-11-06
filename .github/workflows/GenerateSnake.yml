@@ -35,4 +35,4 @@ jobs:
           
       - name: Run script
         run: |
-          python3 main.py "${{ secrets.cookie }}" "${{ secrets.teleid }}" "${{ secrets.teletoken }}" "${{ secrets.SCKEY }}" "${{ secrets.QQKEY }}" "${{ secrets.PPKEY }}"
+          python3 main.py "${{ secrets.teleid }}" "${{ secrets.teletoken }}"
