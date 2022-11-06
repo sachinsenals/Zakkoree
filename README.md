@@ -22,7 +22,7 @@
     <a href="https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/WeChat.jpg"><img src="https://img.shields.io/badge/WeChat--blue?style=social&logo=WeChat"></a>&emsp;
     <a href="https://t.me/Zakkoree"><img src="https://img.shields.io/badge/telegram--blue?style=social&logo=telegram"></a>&emsp;
     <a href="https://twitter.com/MZakkoree"><img src="https://img.shields.io/badge/twitter--blue?style=social&logo=twitter"></a>&emsp;
-<!--     <a href="https://www.facebook.com/profile.php?id=100086466722875/"><img src="https://img.shields.io/badge/facebook--003472?style=social&logo=facebook"></a>&emsp; -->
+    <a href="https://www.facebook.com/profile.php?id=100086466722875ii/"><img src="https://img.shields.io/badge/facebook--003472?style=social&logo=facebook"></a>&emsp;
     <a href="https://www.youtube.com/channel/UCalx4r-nFgzYoeIVXi8b0Og"><img src="https://img.shields.io/badge/youtube--c32136?style=social&logo=youtube"></a>&emsp;
     <a href="https://space.bilibili.com/88005327/"><img src="https://img.shields.io/badge/bilibili--ff69b4?style=social&logo=bilibili"></a>&emsp;
     <a href="https://discord.gg/qEZtdG62ZW"><img src="https://img.shields.io/badge/discord--blue?style=social&logo=discord"></a>&emsp;
@@ -51,7 +51,7 @@
     [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=style=flat-square&logo=github)](https://github.com)
     [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=style=flat-square&logo=GitHubActions&logoColor=white)](https://github.com)
     [![GitLab](https://img.shields.io/badge/-GitLab-181717?style=style=flat-square&logo=GitLab)](https://docs.gitlab.com)
-    [![Gitee](https://img.shields.io/badge/-Gitee-c71d23?style=style=flat-square&logo=Gitee)](https://gitee.com)
+<!--     [![Gitee](https://img.shields.io/badge/-Gitee-c71d23?style=style=flat-square&logo=Gitee)](https://gitee.com) -->
     [![Kubernetes](https://img.shields.io/badge/Kubernetes-%2300599C?style=style=flat-square&logo=Kubernetes&logoColor=white)](https://kubernetes.io)
     [![K3s](https://img.shields.io/badge/K3s-ffc61c?style=style=flat-square&logo=K3s&logoColor=black)](https://k3s.io)
     [![Docker](https://img.shields.io/badge/Docker-2496ed?style=style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
