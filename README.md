@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=160&animation=fadeIn&section=header&text=Zakkoree&fontSize=40&fontAlignY=30"/>
+    <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=160&animation=fadeIn&section=header&text=Zakkoree&fontSize=40&fontAlignY=40"/>
 </p>
 
 <!-- 徽标 -->
