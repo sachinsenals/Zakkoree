@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Zakkoree&fontSize=60&reversal=false"/>
+    <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=140&animation=fadeIn&section=header&text=Zakkoree&fontSize=60"/>
 </p>
 
 <!-- 徽标 -->
@@ -137,3 +137,6 @@
 <!-- https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/header.png -->
 ![MasterHead](https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/header.png)
 
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&animation=fadeIn&height=140&section=footer&text=Now%20Use%20me!&fontSize=60"/>
+</p>
