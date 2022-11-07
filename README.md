@@ -103,7 +103,6 @@
     ![RPC](https://img.shields.io/badge/RPC-ebedf0?style=style=flat-square&logo=Revolt.chat&logoColor=000000)
     ![SOA](https://img.shields.io/badge/SOA-d9edf7?style=style=flat-square&logo=Stripe&logoColor=00000)
     ![VPN](https://img.shields.io/badge/VPN-575757?style=style=flat-square&logo=Proto.io)
-<br>
 
 <!-- Dynamic Quotes -->
 <!-- <div align="center"><a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></a></div>  -->
