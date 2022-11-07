@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=GamerNoTitle&fontSize=60)
+
 <!-- 徽标 -->
 <!-- <p align="center">
     <img src="https://skillicons.dev/icons?i=linux,idea,java,kubernetes,docker,hibernate,gradle,html,css,js,cloudflare,git,discord,nginx,redis,py,md,mysql,postgres,stackoverflow,jenkins,vscode&perline=50"/>
