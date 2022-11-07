@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=GamerNoTitle&fontSize=60)
+<center>
+    <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=GamerNoTitle&fontSize=60"/>
+</center>
 
 <!-- 徽标 -->
 <!-- <p align="center">
