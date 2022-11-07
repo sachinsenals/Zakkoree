@@ -38,6 +38,8 @@
 #  🙋 Hello <img width="80px" src="https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/Handshake.gif"/> <img align="right" src="https://komarev.com/ghpvc/?username=Zakkoree&style=flat&color=brightgreen&label=profile+views"/>
 
 ✍️hi, i'm [Zakkoree](https://github.com/Zakkoree), a passionate full java developer software engineer from china. i take great care in the experience architecture and code quality of the things I build. i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+<!-- https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/header.png -->
+![MasterHead](https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/header.png)
 <img align="right" width="60%" src="https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/code1.gif"/>
 - 💼 any freelance work? do reach.
 - 💬 ask me about anything, i am happy to help.
@@ -107,8 +109,7 @@
 <!-- Dynamic Quotes -->
 <!-- <div align="center"><a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></a></div>  -->
 
-<!-- https://raw.githubusercontent.com/Zakkoree/Zakkoree/main/assets/header.png -->
-![MasterHead](https://cdn.jsdelivr.net/gh/Zakkoree/Zakkoree/assets/header.png)
+
 
 # 🚀 Actions
 
