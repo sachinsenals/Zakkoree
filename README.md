@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=160&animation=fadeIn&section=header&text=👤Zakkoree⭐🌟✨📢💯🌐&fontSize=40&fontAlignY=35"/>
+    <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=160&animation=fadeIn&section=header&text=👤Zakkoree🏆&fontSize=40&fontAlignY=35"/>
 </p>
 
 <!-- 徽标 -->
@@ -137,5 +137,5 @@
 <!-- <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_38979330"> </div> -->
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&animation=blinking&height=160&section=footer&text=me!&fontSize=40&fontAlignY=70"/>
+    <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&animation=blinking&height=160&section=footer&text=🎖me!&fontSize=40&fontAlignY=70"/>
 </p>
