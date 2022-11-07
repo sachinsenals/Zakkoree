@@ -121,7 +121,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakkoree&layout=compact&hide_border=true"/> -->
 
 <!-- 统计 -->
-<center><img src="https://activity-graph.herokuapp.com/graph?username=Zakkoree&bg_color=000000&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/></center>
+<center><img src="https://activity-graph.herokuapp.com/graph?username=Zakkoree&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/></center>
 
 <!-- GitHub奖杯🏆 -->
 <!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Zakkoree&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true"/> </div> -->
