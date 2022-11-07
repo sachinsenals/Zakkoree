@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=GamerNoTitle&fontSize=60"/>
+    <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=140&animation=fadeIn&section=header&text=GamerNoTitle&fontSize=60"/>
 </p>
 
 <!-- 徽标 -->
