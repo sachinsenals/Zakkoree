@@ -2,9 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=160&animation=fadeIn&section=header&text=Zakkoree&fontSize=40&fontAlignY=35"/>
 </p>
 
-<p align="center">
-    <img src="https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&text2=💖&width=1000&height=200"/>
-</p>
+<!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/Akshay090/svg-banners) -->
 
 <!-- 徽标 -->
 <!-- <p align="center">
