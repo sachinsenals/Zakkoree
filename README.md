@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="https://svg-banners.vercel.app/api?type=origin&text=Welcom💖&width=900&height=200"/>
+    <img src="https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=850&height=200"/>
 </p>
 
 <!-- 徽标 -->
