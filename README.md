@@ -138,7 +138,7 @@
 <!-- CSDN数据 -->
 <!-- <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_38979330"> </div> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakkoree&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakkoree&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&animation=blinking&height=160&section=footer&text=🏆&fontSize=40&fontAlignY=70"/>
