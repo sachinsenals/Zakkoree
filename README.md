@@ -115,7 +115,7 @@
 # 🚀 Actions
 
 <!-- GitHub 统计卡片 -->
-<img align="right" width="46%" src="https://streak-stats.demolab.com/?user=Zakkoree&fire=fffefe"/>
+<img align="right" width="46%" src="https://streak-stats.demolab.com/?user=Zakkoree&ring=fffefe&fire=fffefe"/>
 
 <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Zakkoree">
 
